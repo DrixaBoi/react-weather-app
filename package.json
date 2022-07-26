@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": "true",
   "homepage": "https://drixaboi.github.io",
+  "deploy": "gh-pages -b main -d build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
