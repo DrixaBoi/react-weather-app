@@ -1,3 +1,6 @@
+This project used React to build a weather application using the OpenWeatherMap API and GeoDB API with places autocomplete. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
