@@ -2,6 +2,7 @@
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": "true",
+  "default": "index.html",
   "homepage": "https://drixaboi.github.io/react-weather-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
